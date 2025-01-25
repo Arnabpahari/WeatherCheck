@@ -115,11 +115,11 @@ h1 {
   gap: 20px;
 }
 .weather-cards .card {
-  color: #212020;
+  color: #f8f9fa;
   padding: 18px 16px;
   list-style: none;
   width: calc(100% / 5);
-  background: #c3c2bd;
+  background: #43b26a;
   border-radius: 5px;
 }
 .weather-cards .card h3 {
